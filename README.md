@@ -8,8 +8,9 @@
 
  
 ### 🚀 Navegação 
-- [Atividades em sala](https://github.com/lipesshw/POO/tree/main/Atividades)<br>
-- [Listas](https://github.com/lipesshw/POO/tree/main/Listas)
+- [Aulas](https://github.com/lipesshw/POO/tree/main/Aulas)<br>
+- [Listas](https://github.com/lipesshw/POO/tree/main/Listas)<br>
+- [Desafios](https://github.com/lipesshw/POO/tree/main/Desafios)
 
 ### 🛠️ Tecnologias usadas
 
