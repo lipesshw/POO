@@ -7,12 +7,15 @@
   <a href="https://instagram.com/felipessh7"><img src="https://img.shields.io/badge/Instagram-b5005e?&logo=Instagram&logoColor=white"></a>
 </p>
 
-```Bem-vindo ao repositório da disciplica Programação Orientada a Objetos! Este repositório contém uma coleção de exemplos, tutoriais e projetos que demonstram os conceitos fundamentais da POO utilizando diversas linguagens de programação. 💻😎```
+```
+Bem-vindo ao repositório da disciplica Programação Orientada a Objetos! Este repositório contém uma coleção de exemplos, tutoriais
+     e projetos que demonstram os conceitos fundamentais da POO utilizando diversas linguagens de programação. 💻😎
+```
 
  
 ## 🚀 Navegação ##
-![](https://cdn.discordapp.com/attachments/1238569927128907948/1241516700596310136/ender.png?ex=664b24c7&is=6649d347&hm=878e1fd588ec9b95e84156492a6d83a0d34d5f84e183f7ffd179bd6dc9fa3fe3&) [Atividades em sala](https://github.com/ClaitonCaio/POO/tree/main/Atividades)<br>
-![](https://cdn.discordapp.com/attachments/1238569927128907948/1241516700596310136/ender.png?ex=664b24c7&is=6649d347&hm=878e1fd588ec9b95e84156492a6d83a0d34d5f84e183f7ffd179bd6dc9fa3fe3&) [Listas](#listas)
+![](https://cdn.discordapp.com/attachments/1238569927128907948/1241516700596310136/ender.png?ex=664b24c7&is=6649d347&hm=878e1fd588ec9b95e84156492a6d83a0d34d5f84e183f7ffd179bd6dc9fa3fe3&) [Atividades em sala](https://github.com/lipesshw/POO/tree/main/Atividades)<br>
+![](https://cdn.discordapp.com/attachments/1238569927128907948/1241516700596310136/ender.png?ex=664b24c7&is=6649d347&hm=878e1fd588ec9b95e84156492a6d83a0d34d5f84e183f7ffd179bd6dc9fa3fe3&) [Listas](https://github.com/lipesshw/POO/tree/main/Listas)
 
 ## 🛠️ Tecnologias usadas ##
  - Java/JDK-22
