@@ -1,19 +1,13 @@
-<p>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.discordapp.com/attachments/1238569927128907948/1241517504812286093/POO.png?ex=664b2587&is=6649d407&hm=5f87ede0a22c0fed18cfcdd868e4a6db6b96b3fb9fe942dc2fcff75af5d747c7&">
-</p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](https://cdn.discordapp.com/attachments/1238569927128907948/1241517504812286093/POO.png?ex=664b2587&is=6649d407&hm=5f87ede0a22c0fed18cfcdd868e4a6db6b96b3fb9fe942dc2fcff75af5d747c7&)
+
 <h3 align="center">[Ciência da Computação - UFJ]</h4>
 <p align="center">
   </a>
   <a href="https://instagram.com/felipessh7"><img src="https://img.shields.io/badge/Instagram-b5005e?&logo=Instagram&logoColor=white"></a>
 </p>
 
-```
 
-Bem-vindo ao repositório da disciplica Programação Orientada a Objetos! Este repositório contém
-  uma coleção de exemplos, tutoriais e projetos que demonstram os conceitos fundamentais da
-               POO utilizando diversas linguagens de programação. 💻😎
-
-```
+> Bem-vindo ao repositório da disciplica Programação Orientada a Objetos! Este repositório contém uma coleção de exemplos, tutoriais e projetos que demonstram os conceitos fundamentais daPOO utilizando diversas linguagens de programação. 💻😎
 
  
 ## 🚀 Navegação ##
