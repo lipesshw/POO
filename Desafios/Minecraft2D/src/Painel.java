@@ -21,7 +21,7 @@ public class Painel extends JPanel implements KeyListener {
     private int lnBoneco = 0, coBoneco = 6;
     private BufferedImage personagem;
     private BufferedImage terra, grama, pedra, picareta, flor;
-    private int tamanhoPixel = 64; // Tamanho dos blocos (ajustado para a nova resolução)
+    private int tamanhoPixel = 64; 
     private Boolean paraFrente = true;
     private int objSelecionado = 0;
 
