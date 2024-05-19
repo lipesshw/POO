@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Lista POO 01.iml" filepath="$PROJECT_DIR$/Lista POO 01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Questao 1/Questao 1.iml" filepath="$PROJECT_DIR$/Questao 1/Questao 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Questao 10/Questao 10.iml" filepath="$PROJECT_DIR$/Questao 10/Questao 10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Questao 2/Questao 2.iml" filepath="$PROJECT_DIR$/Questao 2/Questao 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Questao 3/Questao 3.iml" filepath="$PROJECT_DIR$/Questao 3/Questao 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Questao 4/Questao 4.iml" filepath="$PROJECT_DIR$/Questao 4/Questao 4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Questao 5/Questao 5.iml" filepath="$PROJECT_DIR$/Questao 5/Questao 5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Questao 6/Questao 6.iml" filepath="$PROJECT_DIR$/Questao 6/Questao 6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Questao 7/Questao 7.iml" filepath="$PROJECT_DIR$/Questao 7/Questao 7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Questao 8/Questao 8.iml" filepath="$PROJECT_DIR$/Questao 8/Questao 8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Questao 9/Questao 9.iml" filepath="$PROJECT_DIR$/Questao 9/Questao 9.iml" />
+    </modules>
+  </component>
+</project>
