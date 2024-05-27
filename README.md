@@ -18,6 +18,5 @@
  - [IntelliJ IDEA 2024.1</p>](https://www.jetbrains.com/idea/download/?section=windows)
 
 <p align="center">
-Feito com ❤️ e muito ☕ por <a href="https://www.instagram.com/felipessh7">Phillipi Jesus Cardoso</a>.
   <br>
 </p>
