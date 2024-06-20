@@ -1,6 +1,6 @@
 # ☕ Restaurante Universitário
 
-- [Código](https://github.com/lipesshw/POO/tree/main/Desafios/Restaurante%20Universit%C3%A1rio/src/cardapioru)
+- [Código](https://github.com/lipesshw/POO/tree/main/Desafios/Restaurante%20Universit%C3%A1rio/cardapioru)
 - [Funcionalidades](#-funcionalidades)
 - [Tecnologias Utilizadas](#-tecnologias-utilizadas)
 - [Diagrama de Classes](#-diagrama-de-classes)
