@@ -14,8 +14,8 @@
 
 ### 🛠️ Tecnologias usadas
 
- - Java/JDK-22
- - [IntelliJ IDEA 2024.1</p>](https://www.jetbrains.com/idea/download/?section=windows)
+ - [Java/JDK-22](https://www.oracle.com/br/java/technologies/downloads/)
+ - [IntelliJ IDEA 2024.1](https://www.jetbrains.com/idea/download/?section=windows)
 
 <p align="center">
   <br>
