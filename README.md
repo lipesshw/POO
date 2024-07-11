@@ -9,11 +9,9 @@
  
 ### 🚀 Navegação 
 - [Aulas](https://github.com/lipesshw/POO/tree/main/Aulas)<br>
-- [Listas](https://github.com/lipesshw/POO/tree/main/Listas)<br>
-- [Desafios](https://github.com/lipesshw/POO/tree/main/Desafios)
+- [Trabalhos](https://github.com/lipesshw/POO/tree/main/Desafios)
 
 ### 🛠️ Tecnologias usadas
-
  - [Java/JDK-22](https://www.oracle.com/br/java/technologies/downloads/)
  - [IntelliJ IDEA 2024.1](https://www.jetbrains.com/idea/download/?section=windows)
 
