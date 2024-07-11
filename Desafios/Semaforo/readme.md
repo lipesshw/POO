@@ -1,6 +1,6 @@
 # 🚦 Semáforo
 
-- [Código]([https://github.com/usuario/repositorio/simulacao-cruzamento](https://github.com/lipesshw/POO/tree/main/Desafios/Semaforo/semaforo))
+- [Código](https://github.com/lipesshw/POO/tree/main/Desafios/Semaforo/semaforo)
 - [Funcionalidades](#-funcionalidades)
 - [Tecnologias Utilizadas](#-tecnologias-utilizadas)
 - [Como Executar](#-como-executar)
