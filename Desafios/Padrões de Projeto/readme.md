@@ -16,6 +16,13 @@ Este projeto é uma implementação do padrão de projeto Proxy para um download
 
 - **Java**: Linguagem de programação utilizada para desenvolver o sistema.
 
+
+## 📈 Diagrama de Classes
+
+<p align="center">
+  <img src="diagrama.png" alt="Diagrama de Classes">
+</p>
+
 ## 📖 Como Executar
 
 1. **Clone o repositório**:
