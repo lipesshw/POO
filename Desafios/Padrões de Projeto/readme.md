@@ -1,6 +1,6 @@
 # 🎥 YouTube Downloader Proxy
 
-- [Código]([https://github.com/seu_usuario/seu_repositorio](https://github.com/lipesshw/POO/tree/main/Desafios/Padr%C3%B5es%20de%20Projeto/padroesdeprojeto))
+- [Código](https://github.com/lipesshw/POO/tree/main/Desafios/Padr%C3%B5es%20de%20Projeto/padroesdeprojeto)
 - [Funcionalidades](#-funcionalidades)
 - [Tecnologias Utilizadas](#-tecnologias-utilizadas)
 - [Como Executar](#-como-executar)
