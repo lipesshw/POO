@@ -21,15 +21,19 @@ Este projeto é uma simulação de um cruzamento com semáforos utilizando Java 
 
 1. **Clone o repositório**:
     ```bash
-    git clone https://github.com/usuario/repositorio/simulacao-cruzamento
+    $ git clone https://github.com/lipesshw/POO
     ```
-2. **Compile o código**:
+2. **Clone o repositório**:
     ```bash
-    javac Cruzamento.java Principal.java Semaforo.java
+    $ cd POO/Desafios/Semaforo/semaforo/
     ```
-3. **Execute o programa**:
+3. **Compile o código**:
     ```bash
-    java Principal
+    $ javac Cruzamento.java Principal.java Semaforo.java
+    ```
+4. **Execute o programa**:
+    ```bash
+    $ java Principal
     ```
 
 O programa abrirá uma janela exibindo a simulação do cruzamento com semáforos. Use o botão direito do mouse para acessar o menu de contexto e alternar o modo de exibição dos semáforos.
