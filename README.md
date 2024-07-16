@@ -4,7 +4,7 @@
 </h1>
 
 
-> Bem-vindo ao repositório da disciplica Programação Orientada a Objetos! Este repositório contém uma coleção de exemplos, tutoriais e projetos que demonstram os conceitos fundamentais daPOO utilizando diversas linguagens de programação. 💻😎
+> Este repositório contém uma coleção de projetos que demonstram os conceitos fundamentais da POO utilizando Java como linguagens de programação. 💻😎
 
  
 ### 🚀 Navegação 
